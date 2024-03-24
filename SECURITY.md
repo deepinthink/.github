@@ -1,5 +1,5 @@
-# Security Policy
+# 安全策略
 
-## Reporting a Vulnerability
- - :x: **Do not open a GitHub issue if the bug is a security vulnerability in RSocket**
- - :white_check_mark: Disclose responsibly by sending a private report to one of the active project maintainers
+## 上报漏洞
+ - :x: **请不要尝试在 GitHub Issues 区上报漏洞。**
+ - :white_check_mark: 建议通过私信方式将漏洞上报给具体仓库的核心维护人员。
