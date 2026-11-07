@@ -1,0 +1,4 @@
+DeepInThink Community
+Copyright 2026-present DeepInThink
+
+This product includes software developed by DeepInThink(https://github.com/deepinthink).
